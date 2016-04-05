@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./joannisdunsscot02waddgoog_0005.png"; bbox 0 0 4255 6375; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 942 2966 3447 3151">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 942 2966 3447 3151">
+     <span class='ocr_line' id='line_1_1' title="bbox 942 2966 3447 3151; baseline -0.001 0"><span class='ocrx_word' id='word_1_1' title='bbox 942 2968 1886 3151; x_wconf 76' lang='lat' dir='ltr'><strong>JOANNIS</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 2065 2966 2647 3148; x_wconf 75' lang='lat' dir='ltr'><strong>DUNS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2807 2966 3447 3148; x_wconf 73' lang='lat' dir='ltr'>SGOTl</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1152 3296 3280 3381">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1152 3296 3280 3381">
+     <span class='ocr_line' id='line_1_2' title="bbox 1152 3296 3280 3381; baseline 0.001 -8"><span class='ocrx_word' id='word_1_4' title='bbox 1152 3298 1660 3374; x_wconf 82' lang='lat' dir='ltr'>DOCTORIS</span> <span class='ocrx_word' id='word_1_5' title='bbox 1715 3298 2209 3381; x_wconf 80' lang='lat' dir='ltr'><strong>SUBTILIS,</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2264 3297 2637 3373; x_wconf 91' lang='lat' dir='ltr'><strong>ORDINI</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2649 3296 3280 3375; x_wconf 76' lang='lat' dir='ltr'>MMMMMMMMM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1723 3537 2694 3651">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1723 3537 2694 3651">
+     <span class='ocr_line' id='line_1_3' title="bbox 1723 3537 2694 3651; baseline -0.002 0"><span class='ocrx_word' id='word_1_8' title='bbox 1723 3538 2145 3651; x_wconf 64' lang='lat' dir='ltr'>uptun</span> <span class='ocrx_word' id='word_1_9' title='bbox 2225 3537 2694 3650; x_wconf 68' lang='grc' dir='ltr'><strong>ΟΜΝΙΔ.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
